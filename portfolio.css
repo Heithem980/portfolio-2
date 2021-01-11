@@ -1,0 +1,59 @@
+body {
+  background-image: url("background3.jpg");
+}
+
+div.card {
+  background-color: rgb(218, 162, 41);
+}
+
+img.profile {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  margin-top: 40px;
+  margin-bottom: 0px;
+  box-shadow: 5px 10px #888888;
+}
+
+h3.name {
+  font-family: "Great Vibes", cursive;
+  font-weight: bold;
+  text-align: center;
+  font-size: 100px;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+h1.profession {
+  font-family: Georgia, serif;
+  text-align: center;
+  font-size: 40px;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+pre.contact-info {
+  text-align: center;
+  font-size: 25px;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+.aboutMe {
+  font-family: "Brush Script MT", cursive;
+  text-align: center;
+  font-size: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.aboutMe.text {
+  font-family: "Brush Script MT", cursive;
+  font-size: 40px;
+
+  text-align: center;
+}
+
+.card {
+  box-shadow: 5px 10px #888888;
+}
